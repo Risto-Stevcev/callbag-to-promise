@@ -1,5 +1,5 @@
 {
-  "name": "callbag-to-promise",
+  "name": "@ristostevcev/callbag-to-promise",
   "version": "1.0.0",
   "description": "Convert a stream into a promise",
   "main": "index.js",
